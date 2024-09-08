@@ -1,0 +1,6 @@
+manejo de errores (si ponen user y pass distinto de jhon)
+manejo de success (redux) ... login success (redirigir al home y sacar una alertica de success)
+hacer una vistica home (react router) con btn de logout (delete cookie) y poner los datos del profile justo en medio
+
+
+
